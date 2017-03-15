@@ -13,8 +13,8 @@ Personal goal: Build an interactive music player.
 General Goal: Be a swiss-army knife of webdev.
 
 ## c.1)	
-I have many synths and guitars in my basement
-I have a basement
-I have a giant fluffy dog
+1.  I have many synths and guitars in my basement
+2.  I have a basement
+3.  I have a giant fluffy dog
 
 
