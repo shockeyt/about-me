@@ -1,5 +1,7 @@
 # about-me
 
+# [LinkedIn Page](https://www.linkedin.com/in/tylershockey/)
+
 ## All about me
 
 ## a) 
