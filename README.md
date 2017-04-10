@@ -4,6 +4,9 @@
 
 ## All about me
 
+# Desired job:
+At this time, I feel like I want to join a mid-level agency team.  Emphasis on Front End.
+
 ## a) 
 Before GA I was a technical specialist/project manager for live event production.  I mainly worked in the audio and video departments setting up line arrays, rigs, video projection, etc.  Before that I was a data security tech focusing on resetting and clearing servers/networking equipment/computers of previous company info and resetting them to factory spec.
 
