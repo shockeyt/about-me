@@ -2,7 +2,7 @@
 
 # [LinkedIn Page](https://www.linkedin.com/in/tylershockey/)
 
-![](Tyler Dev Resume April 2017.pdf)
+![](Tyler Dev Resume April 2017.jpg)
 
 ## All about me
 
