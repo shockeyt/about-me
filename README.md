@@ -2,6 +2,8 @@
 
 # [LinkedIn Page](https://www.linkedin.com/in/tylershockey/)
 
+![](Tyler Dev Resume April 2017.pdf)
+
 ## All about me
 
 # Desired job:
