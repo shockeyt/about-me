@@ -2,6 +2,8 @@
 
 # [LinkedIn Page](https://www.linkedin.com/in/tylershockey/)
 
+# [Porfolio Site](http://tylershockey.co/)
+
 ![](TylerDevResumeApril2017v2.jpg)
 
 ## All about me
