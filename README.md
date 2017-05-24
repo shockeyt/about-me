@@ -4,7 +4,7 @@
 
 # [Porfolio Site](http://tylershockey.co/)
 
-![](TylerDevResumeApril2017v2.jpg)
+![](TylerDevResumeMay2017.jpg)
 
 ## All about me
 
